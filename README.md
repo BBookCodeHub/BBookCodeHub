@@ -1,16 +1,15 @@
-## Hi, Brandon 👋
+## Hi, I'm Brandon B. 👋
 
-Technical program manager transitioning into cybersecurity. Currently building
-hands-on AWS security labs and working toward the AWS Solutions Architect Associate cert.
+I'm a technical program manager sharpening my cybersecurity skills through hands-on labs and documenting the process along the way. Expect coverage across multiple cloud platforms and a range of industry-leading security tools.
 
-**Focus areas:** VM, IAM, Data Security, and Cloud Security
+**Focus areas:** Vulnerability Management, IAM, Data Security, and Cloud Security
 
-## Labs & Projects
-### [AWS IAM Least-Privilege Lab](https://github.com/BBookCodeHub/aws-iam-least-privilege-lab)
+## Labs & Projects 💻
+### [AWS IAM Least-Privilege Lab](https://github.com/BBookCodeHub/aws-iam-least-privilege-lab) 🔐
 - Scoped an IAM user to read a single S3 bucket, enforced MFA, and blocked all programmatic access without MFA. Verified every allow and deny path. Built and documented on AWS free tier.
 
 
-## Certifications
+## Certifications 🎓
 - PMP
 - CompTIA Security+
 - DSPM Fundamentals
