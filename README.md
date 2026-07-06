@@ -1,6 +1,6 @@
 ## Hi, I'm Brandon B. 👋
 
-I'm a technical program manager sharpening my cybersecurity skills through hands-on labs and documenting the process along the way. Expect coverage across multiple cloud platforms and a range of industry-leading security tools.
+I'm a technical program manager, currently advancing my cybersecurity skills through hands-on labs and documenting the process along the way. Expect coverage across multiple cloud platforms and a range of industry-leading security tools.
 
 **Focus areas:** Vulnerability Management, IAM, Data Security, and Cloud Security
 
