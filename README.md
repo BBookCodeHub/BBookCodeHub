@@ -6,6 +6,9 @@ hands-on AWS security labs and working toward the AWS Solutions Architect Associ
 **Focus areas:** VM, IAM, Data Security, and Cloud Security
 
 ## Labs & Projects
+### [AWS IAM Least-Privilege Lab](https://github.com/BBookCodeHub/aws-iam-least-privilege-lab)
+- Scoped an IAM user to read a single S3 bucket, enforced MFA, and blocked all programmatic access without MFA. Verified every allow and deny path. Built and documented on AWS free tier.
+
 
 ## Certifications
 - PMP
