@@ -3,7 +3,7 @@
 Technical program manager transitioning into cybersecurity. Currently building
 hands-on AWS security labs and working toward the AWS Solutions Architect Associate cert.
 
-**Focus areas:** VM, IAM, and Cloud Security
+**Focus areas:** VM, IAM, Data Security, and Cloud Security
 
 ## Labs & Projects
 
