@@ -6,8 +6,10 @@ I'm a technical program manager, currently advancing my cybersecurity skills thr
 
 ## Labs & Projects 💻
 ### [AWS IAM Least-Privilege Lab](https://github.com/BBookCodeHub/aws-iam-least-privilege-lab) 🔐
-- Scoped an IAM user to read a single S3 bucket, enforced MFA, and blocked all programmatic access without MFA. Verified every allow and deny path. Built and documented on AWS free tier.
+> Scoped an IAM user to read a single S3 bucket, enforced MFA, and blocked all programmatic access without MFA. Verified every allow and deny path. Built and documented on AWS free tier.
 
+### [ServiceNow: Unified Security Exposure Management (USEM) Bootcamp](https://github.com/BBookCodeHub/servicenow-usem-bootcamp) 
+> Hands-on lab covering the next generation of ServiceNow Vulnerability Response (VR), reworked into a single unified exposure management experience.
 
 ## Certifications 🎓
 - PMP
