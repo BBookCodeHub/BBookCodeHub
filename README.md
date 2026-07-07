@@ -11,6 +11,9 @@ I'm a technical program manager, currently advancing my cybersecurity skills thr
 ### [ServiceNow: Unified Security Exposure Management (USEM) Bootcamp](https://github.com/BBookCodeHub/servicenow-usem-bootcamp) 
 > Hands-on lab covering the next generation of ServiceNow Vulnerability Response (VR), reworked into a single unified exposure management experience.
 
+### [AWS Image Label Generator with Amazon Rekognition](https://github.com/BBookCodeHub/aws-image-label-generator-s3-iam/blob/main/README.md)
+>A Python-based computer vision application that leverages Amazon Rekognition to automatically detect, classify, and annotate objects within images stored in Amazon S3.
+
 ## Certifications 🎓
 - PMP
 - CompTIA Security+
