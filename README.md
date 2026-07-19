@@ -1,6 +1,6 @@
 ## Hi, I'm Brandon B. 👋
 
-I'm a technical program manager, currently advancing my cybersecurity skills through hands-on labs and documenting the process along the way. Expect coverage across multiple cloud platforms and a range of industry-leading security tools.
+I'm a technical program manager actively advancing two areas of my craft: my cybersecurity skills through hands-on projects and labs, and my use of AI, integrating it across how I plan, build, and deliver. I'll document the process and what I learn along the way, with coverage across multiple cloud platforms and a range of industry-leading security tools.
 
 **Focus areas:** Vulnerability Management, IAM, Data Security, and Cloud Security
 
@@ -13,6 +13,9 @@ I'm a technical program manager, currently advancing my cybersecurity skills thr
 
 ### [AWS Image Label Generator with Amazon Rekognition](https://github.com/BBookCodeHub/aws-image-label-generator-s3-iam/blob/main/README.md)
 >A Python-based computer vision application that leverages Amazon Rekognition to automatically detect, classify, and annotate objects within images stored in Amazon S3.
+
+### [Multi-Model AI Content Pipeline (n8n)](https://github.com/BBookCodeHub/Multi-Model-AI-Content-Pipeline-n8n-/blob/main/README.md)
+>An automated, end-to-end pipeline that takes a daily trigger and produces finished Mortal Kombat–themed video content with no human in the loop, from the first idea all the way to an assembled video.
 
 ## Certifications 🎓
 - PMP
