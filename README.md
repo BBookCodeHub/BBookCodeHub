@@ -6,16 +6,16 @@ I'm a technical program manager actively advancing two areas of my craft: my cyb
 
 ## Labs & Projects 💻
 ### [AWS IAM Least-Privilege Lab](https://github.com/BBookCodeHub/aws-iam-least-privilege-lab)
-> Scoped an IAM user to read a single S3 bucket, enforced MFA, and blocked all programmatic access without MFA. Verified every allow and deny path. Built and documented on AWS free tier.
+> Designed and validated an IAM access-control model for S3, applying least-privilege principles, MFA enforcement, and explicit allow/deny testing to demonstrate secure access governance and policy validation.
 
 ### [ServiceNow: Unified Security Exposure Management (USEM) Bootcamp](https://github.com/BBookCodeHub/servicenow-usem-bootcamp) 
-> Hands-on lab covering the next generation of ServiceNow Vulnerability Response (VR), reworked into a single unified exposure management experience.
+> Built hands-on vulnerability response and exposure management workflows, applying security governance concepts across risk prioritization, remediation ownership, workflow orchestration, and operational visibility.
 
 ### [AWS Image Label Generator with Amazon Rekognition](https://github.com/BBookCodeHub/aws-image-label-generator-s3-iam/blob/main/README.md)
->A Python-based computer vision application that leverages Amazon Rekognition to automatically detect, classify, and annotate objects within images stored in Amazon S3.
+>Built a Python-based computer-vision workflow integrating Amazon Rekognition and S3 to automate image classification and metadata generation, demonstrating cloud service integration, API-driven workflows, and automated data processing.
 
 ### [Multi-Model AI Content Pipeline (n8n)](https://github.com/BBookCodeHub/Multi-Model-AI-Content-Pipeline-n8n-/blob/main/README.md)
->An automated, end-to-end pipeline that takes a daily trigger and produces finished Mortal Kombat–themed video content with no human in the loop, from the first idea all the way to an assembled video.
+>Designed a multi-agent workflow connecting LLM, image, and video generation models through n8n, establishing automated handoffs from ideation through asset production and demonstrating AI workflow orchestration and process automation.
 
 ## Certifications 🎓
 - PMP
